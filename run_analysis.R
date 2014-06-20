@@ -51,7 +51,7 @@ run_analysis <- function (full_df_out_file="full_df.csv",
     
     # Combine train and test into a single data frame and add column names                                                              
     x <- rbind(x_train,x_test)
-    colnames(x) <- features[ind]
+    colnames(x) <- features[ind];
     
     ## OUTPUT ##
     # 1) Combine all data into a single data frame
