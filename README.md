@@ -1,7 +1,7 @@
 GetDataProj
 ===========
 
-Run Analysis
+run_analysis.R
 ------------
 
 Creates two data frames from the UCI HAR Dataset:
