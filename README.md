@@ -1,4 +1,4 @@
-GetDataProj
+README
 ===========
 
 run_analysis.R
@@ -15,3 +15,8 @@ Creates two data frames from the UCI HAR Dataset:
 
  Each data frame is written to file specified by the fuction arguments
  [full_df_out_file] & [tidy_df_out_file], respectively
+
+Codebook.md
+-----------
+
+Description of the variables within the tidy data set.
